@@ -6,4 +6,4 @@
 4. Open index.html in the browser.
 
 # Getting started with your first Pull request.
- Read wiki carefully before making any code change- https://github.com/Vikas0786/vikasUI_PracticeTheme/wiki#instructions-for-making-a-code-change
+ *Read wiki carefully before making any code change-* https://github.com/Vikas0786/vikasUI_PracticeTheme/wiki#instructions-for-making-a-code-change
