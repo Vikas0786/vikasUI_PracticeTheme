@@ -1,4 +1,4 @@
-## Downloading Attendance management System
+# Downloading Attendance management System
 
 1. Create a new, empty folder called opensource/ in your computer's home folder.
 2. Navigate to it (`cd opensource`), then fork and clone the vikasUI_PracticeTheme repo so that it gets downloaded into opensource/vikasUI_PracticeTheme.
@@ -7,4 +7,4 @@
 
 # Getting started with your first Pull request.
 
-Instructions for making any code change -
+##Instructions for making any code change -
